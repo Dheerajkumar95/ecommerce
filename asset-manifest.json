@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.513e9803.css",
-    "main.js": "/ecommerce/static/js/main.4c173e40.js",
+    "main.css": "/ecommerce/static/css/main.3a94af72.css",
+    "main.js": "/ecommerce/static/js/main.c7700484.js",
     "static/js/453.2d40735f.chunk.js": "/ecommerce/static/js/453.2d40735f.chunk.js",
     "static/media/pic-1.png": "/ecommerce/static/media/pic-1.7e82d66ea7d447161fc2.png",
     "static/media/veg thali.png": "/ecommerce/static/media/veg thali.7cbedb88b64c99c77925.png",
@@ -10,6 +10,8 @@
     "static/media/about-img.jpg": "/ecommerce/static/media/about-img.01c65dbfd70ccc95386c.jpg",
     "static/media/product-1.png": "/ecommerce/static/media/product-1.ca74090c36866e811ed8.png",
     "static/media/popcorn.png": "/ecommerce/static/media/popcorn.71d9ab052038f261a3ce.png",
+    "static/media/login.png": "/ecommerce/static/media/login.10c5386082d343b0c2a8.png",
+    "static/media/profile.png": "/ecommerce/static/media/profile.2f2ff0b4682deee5c970.png",
     "static/media/blog-2.jpeg": "/ecommerce/static/media/blog-2.aad862135a6f55136148.jpeg",
     "static/media/blog-1.jpeg": "/ecommerce/static/media/blog-1.065d12567fbfbd854b28.jpeg",
     "static/media/blog-3.jpeg": "/ecommerce/static/media/blog-3.facb0a62c6f95b805de3.jpeg",
@@ -25,12 +27,12 @@
     "static/media/cart-item-1.png": "/ecommerce/static/media/cart-item-1.e96f24935570ab6ca6f6.png",
     "static/media/menu-6.png": "/ecommerce/static/media/menu-6.1e627e81ea9cffd96843.png",
     "index.html": "/ecommerce/index.html",
-    "main.513e9803.css.map": "/ecommerce/static/css/main.513e9803.css.map",
-    "main.4c173e40.js.map": "/ecommerce/static/js/main.4c173e40.js.map",
+    "main.3a94af72.css.map": "/ecommerce/static/css/main.3a94af72.css.map",
+    "main.c7700484.js.map": "/ecommerce/static/js/main.c7700484.js.map",
     "453.2d40735f.chunk.js.map": "/ecommerce/static/js/453.2d40735f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.513e9803.css",
-    "static/js/main.4c173e40.js"
+    "static/css/main.3a94af72.css",
+    "static/js/main.c7700484.js"
   ]
 }
