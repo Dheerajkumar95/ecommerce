@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce/static/css/main.01a63326.css",
-    "main.js": "/ecommerce/static/js/main.01735adb.js",
+    "main.js": "/ecommerce/static/js/main.7fdb95eb.js",
     "static/js/453.2d40735f.chunk.js": "/ecommerce/static/js/453.2d40735f.chunk.js",
     "static/media/pic-1.png": "/ecommerce/static/media/pic-1.7e82d66ea7d447161fc2.png",
     "static/media/veg thali.png": "/ecommerce/static/media/veg thali.7cbedb88b64c99c77925.png",
@@ -28,11 +28,11 @@
     "static/media/menu-6.png": "/ecommerce/static/media/menu-6.1e627e81ea9cffd96843.png",
     "index.html": "/ecommerce/index.html",
     "main.01a63326.css.map": "/ecommerce/static/css/main.01a63326.css.map",
-    "main.01735adb.js.map": "/ecommerce/static/js/main.01735adb.js.map",
+    "main.7fdb95eb.js.map": "/ecommerce/static/js/main.7fdb95eb.js.map",
     "453.2d40735f.chunk.js.map": "/ecommerce/static/js/453.2d40735f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01a63326.css",
-    "static/js/main.01735adb.js"
+    "static/js/main.7fdb95eb.js"
   ]
 }
